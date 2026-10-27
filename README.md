@@ -25,4 +25,3 @@ Pushed commits to: torvalds/linux
 DeleteEvent torvalds/linux
 Pushed commits to: torvalds/linux
 ```
-changes
