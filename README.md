@@ -25,3 +25,10 @@ Pushed commits to: torvalds/linux
 DeleteEvent torvalds/linux
 Pushed commits to: torvalds/linux
 ```
+
+## Project URL
+
+```text
+https://roadmap.sh/projects/github-user-activity
+```
+
